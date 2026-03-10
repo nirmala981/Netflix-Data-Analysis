@@ -12,8 +12,8 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Jupyter Notebook
 
 ## Key Analysis
-- Movies vs TV Shows distribution
-- Top countries producing Netflix content
+- Movies vs TV Shows distribution 
+- Top countries producing Netflix content 
 - Content release trends over the years
 - Most popular genres on Netflix
 - Ratings distribution
